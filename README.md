@@ -8,3 +8,5 @@ I'm using this repo to:
 - Improve logical thinking and problem-solving
 - Practice writing clean and efficient code
 - Track my progress consistently
+
+## Topics Covered
