@@ -18,3 +18,10 @@ I'm using this repo to:
 - Searching & Sorting
 - Recursion
 - And more as I progress
+## Progress
+
+| Category | Status |
+|---|---|
+| Easy Problems | 🟢 In Progress |
+| Medium Problems | 🟡 Upcoming |
+| Hard Problems | 🔴 Later |
