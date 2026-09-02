@@ -25,3 +25,6 @@ I'm using this repo to:
 | Easy Problems | 🟢 In Progress |
 | Medium Problems | 🟡 Upcoming |
 | Hard Problems | 🔴 Later |
+> The goal isn't just to solve problems — it's to understand the logic behind them.
+
+## Language
