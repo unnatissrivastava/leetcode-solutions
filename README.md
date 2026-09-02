@@ -28,3 +28,6 @@ I'm using this repo to:
 > The goal isn't just to solve problems — it's to understand the logic behind them.
 
 ## Language
+**C**
+
+## Structure
