@@ -10,3 +10,11 @@ I'm using this repo to:
 - Track my progress consistently
 
 ## Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Bit Manipulation
+- Mathematics
+- Searching & Sorting
+- Recursion
+- And more as I progress
