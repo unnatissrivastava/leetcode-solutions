@@ -31,3 +31,11 @@ I'm using this repo to:
 **C**
 
 ## Structure
+```text
+LeetCode/
+├── Arrays/
+├── Strings/
+├── Linked Lists/
+├── Bit Manipulation/
+├── Math/
+└── README.md
