@@ -4,10 +4,10 @@ int getLeastFrequentDigit(int n) {
     while(n>0){
         digit = n%10;
         count[digit]++;
-        n/=10; 
+        n/=10;
     }
+    int min = 1000;
     int result = -1;
-    int min = 100;
     for(d=0; d<=9; d++){
         if (count[d]>0 && count[d]<min){
             min = count[d];
