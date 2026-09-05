@@ -1,14 +1,12 @@
 void reverseString(char* s, int sSize) {
-    int l, r;
-    char temp;
-    l = 0;
-    r = sSize - 1;
-    while (r > l){
-        temp = s[l];
-        s[l] = s[r];
-        s[r] = temp;
-        l ++;
-        r --;
+    int a, b, temp;
+    a = 0;
+    b = sSize - 1;
+    while (b>a){
+        temp = s[a];
+        s[a] = s[b];
+        s[b] = temp;
+        a ++;
+        b--;
     }
-    
 }
