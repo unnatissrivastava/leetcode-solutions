@@ -6,10 +6,10 @@ int getLeastFrequentDigit(int n) {
         count[digit]++;
         n/=10;
     }
-    int min = 1000;
     int result = -1;
-    for(d=0; d<=9; d++){
-        if (count[d]>0 && count[d]<min){
+    int min = 1000;
+    for (d=0;d<=9;d++){
+        if(count[d]>0 && count[d]<min){
             min = count[d];
             result = d;
         }
