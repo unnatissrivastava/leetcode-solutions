@@ -1,7 +1,6 @@
 int* selfDividingNumbers(int left, int right, int* returnSize) {
     int* result = (int*)malloc((right - left + 1) * sizeof(int));
     *returnSize = 0;
-
     for (int i = left; i <= right; i++) {
         int num = i;
         int valid = 1;
